@@ -1,4 +1,4 @@
-# mais-flask-workshop-2019
+# MAIS Handwriting Recognition
 
 The goal of this project is to show how my handwriting recognition model predicts text.
 
