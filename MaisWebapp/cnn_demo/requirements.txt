@@ -1,6 +1,6 @@
 Flask==1.0.2
 matplotlib==2.2.3
-numpy==1.15.1
+numpy==1.22.0
 Pillow==6.2.2
 torchvision==0.4.1
 pytorch-pretrained-bert==0.6.2
